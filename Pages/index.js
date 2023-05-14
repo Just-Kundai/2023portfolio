@@ -11,7 +11,9 @@
        </Head>
 
        <main>
-       <sectionc className=" "
+       <section className=" ">
+       <h1> Hello </h1>
+       </section>
        </main>
       </div>
     )
