@@ -17,7 +17,7 @@
          <h1>developedbyK</h1>
          <ul>
          <li> <BsFillMoonStarsFill/></li>
-         <li><a href="#">Resume</a></li>
+         <li><a href="#">Resume :) </a></li>
          </ul>
 
          </nav>
