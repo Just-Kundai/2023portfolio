@@ -15,7 +15,7 @@
        <section className="min-h-screen">
          <nav className="py-10 mb-12 flex justify-between">
          <h1>developedbyK</h1>
-         <ul className="flexx items-center">
+         <ul className="flex items-center">
          <li> <BsFillMoonStarsFill/></li>
          <li><a href="#"> Resume </a></li>
          </ul>
