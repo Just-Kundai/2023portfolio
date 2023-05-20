@@ -11,17 +11,17 @@
            <link rel="icon" href="/favicon.ico" />
        </Head>
 
-       <main>
+       <main className=" bg-white px-10">
        <section className="min-h-screen">
          <nav className="py-10 mb-12 flex justify-between">
          <h1>developedbyK</h1>
-         <ul>
+         <ul className="flexx items-center">
          <li> <BsFillMoonStarsFill/></li>
-         <li><a href="#">Resume :) </a></li>
+         <li><a href="#"> Resume </a></li>
          </ul>
 
          </nav>
-       <h1> Hello World</h1>
+
        </section>
        </main>
       </div>
