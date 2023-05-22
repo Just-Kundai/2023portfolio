@@ -17,7 +17,7 @@
          <h1>developedbyK</h1>
          <ul className="flex items-center">
          <li> <BsFillMoonStarsFill/></li>
-         <li><a href="#"> Kundai's Resume </a></li>
+         <li><a href="#"> Resume </a></li>
          </ul>
 
          </nav>
